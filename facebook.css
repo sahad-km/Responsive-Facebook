@@ -1,0 +1,188 @@
+.buttons{
+    background-color: #fff;
+    border: 1px solid #ccd0d5;
+    box-sizing: border-box;
+    display: inline-block;
+    flex: 1 0 auto;
+    font-weight: normal;
+    height: 36px;
+    margin: 8px 6px 6px;
+    padding: 0;
+    position: relative;
+    width: auto;
+}
+.errors{
+    color:#FF0000;
+    font-size: small;
+}
+.facebook_para{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 1.7em;
+    font-weight: normal;
+    line-height: 32px;
+    margin-left: 10%;
+    width: 100%;
+    margin-top: -3%;
+}
+.left{
+    margin: 10%;
+}
+.right{
+    margin-top: 10%;
+    
+}
+.form{
+    border:none;
+    border-radius: 2%;
+    box-shadow:1px 1px 1px grey;
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+    background-color: white;
+}
+.div_line{
+    height: 1px;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    background-color:blue;
+}
+.input_style{
+    height: 3em;
+}
+.forgot_pass{
+    color: #1877f2;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 2em;
+}
+.create_btn{
+    margin-top: 1em;
+    background-color: #42b72a;
+    font-weight: 500;
+    
+}
+.gender{
+    display: flex;
+    flex-wrap: wrap;
+    margin: -7px 0px -6px;
+    width: 411px;
+}
+.gender_all{
+    background-color: #fff;
+    border: 1px solid #ccd0d5;
+    box-sizing: content-box;
+    display: inline-block;
+    flex: 1 0 auto;
+    font-weight: normal;
+    height: 36px;
+    border-radius: 3px;
+    margin: 8px 6px 6px;
+    padding: 0;
+    position: relative;
+    width: auto;
+}
+.gender_name{
+    box-sizing: border-box;
+    color: #1c1e21;
+    display: inline-block;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 36px;
+    padding: 0 28px 0 10px;
+    width: 100%;
+}
+.messg_div{
+       padding: 4%;
+       text-align: center;
+}
+.messg{
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+.messg_link{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    text-decoration: #1c1e21;
+}
+.last_row{
+    padding-top: 10%;
+}
+.itsasy{
+    margin-left: 3%;
+    margin-top: -5%;
+}
+.gender_div{
+    padding: 0%;
+    font-size: smaller;
+    color: #777;
+}
+.dob{
+    font-size: smaller;
+    color: #777;
+}
+.radio_btn{
+    height: 100%;
+    margin: 0;
+    position: absolute;
+    right: 5%;
+    top:0
+}
+.one{
+    text-align: center;
+}
+.para_last{
+    color: #777;
+    font-size: 11px;
+    font-weight: 500;
+}
+.btn_div{
+    text-align: center;
+    padding: 0.8em;
+}
+.btn_style{
+    width: 50%;
+    background: none;
+    background-color: #00a400;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+    border: none;
+}
+.list_head{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: #777;
+    font-size: 12px;
+}
+.lang_style{
+    color: #777;
+    font-size: 12px;
+    margin-left: 1em;
+}
+.last_div{
+    padding-left: 14%;
+    padding-top: 2%;
+    padding-right: 11%;
+    background-color: white;
+}
+.last_three_div{
+    padding-left: 14%;
+    background-color:white ;
+}
+.last_three_style{
+    color: #777;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 1em;
+}
